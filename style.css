@@ -1,0 +1,15 @@
+.div-1{
+    background-color: rgb(178, 214, 200);
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.div-2{
+    height: 200px;
+    width: 200px;
+    background-color: rgb(18, 20, 23);
+
+}
